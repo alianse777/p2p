@@ -6,9 +6,9 @@
 
         --bind-addr <bind-addr>     [default: 127.0.0.1]
 
-        --connect <connect>         # connect to peer
+        --connect <addr:port>         # connect to peer
 
-        --period <period>
+        --period <period_seconds>
 
         --port <port>               [default: 8000] # bind port
 
