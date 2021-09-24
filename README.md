@@ -1,13 +1,8 @@
 # Usage
 
-./p2p [OPTIONS]
+    ./p2p [OPTIONS]
 
-FLAGS:
-    -h, --help       Prints help information
-
-    -V, --version    Prints version information
-
-OPTIONS:
+    OPTIONS:
 
         --bind-addr <bind-addr>     [default: 127.0.0.1]
 
